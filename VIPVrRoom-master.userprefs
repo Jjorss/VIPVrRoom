@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="VIPVrRoom-master.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LaserPointer.cs">
+    <Files>
+      <File FileName="Assets\ViveControllerInputTest.cs" Line="23" Column="33" />
+      <File FileName="Assets\ControllerGrabObject.cs" Line="22" Column="3" />
+      <File FileName="Assets\LaserPointer.cs" Line="29" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
